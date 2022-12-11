@@ -27,3 +27,14 @@ games use basic JAVA concepts like two-dimensional arrays, inheritance, multiple
 
 ## Requirements
 All you need is a computer that runs java.
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deven-patil-067530209/)
+
+
+## Contributors and Team Members
+
+- [Manish Patil](https://github.com/Manish1803)
+- [Aniket Jagtap](https://github.com/aniketajagtap)
+- Sushant Shelar
+- Isha Pawar
