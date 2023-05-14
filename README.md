@@ -36,5 +36,5 @@ All you need is a computer that runs java.
 
 - [Manish Patil](https://github.com/Manish1803)
 - [Aniket Jagtap](https://github.com/aniketajagtap)
-- Sushant Shelar
+- [Sushant Shelar](https://github.com/sushant6925)
 - Isha Pawar
